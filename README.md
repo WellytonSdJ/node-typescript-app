@@ -32,3 +32,9 @@ Por ser um projeto de estudo, deixei o arquivo
 - express
 - Nodemon
 - Mongoose
+
+### Detalhes das rotas
+
+Criei e disponibilizei a documentação das rotas através do Postman:
+
+https://documenter.getpostman.com/view/18389680/2sAY4vi3qx
